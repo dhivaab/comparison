@@ -1,0 +1,4 @@
+Onelakepath,Mongopath
+s3://coglogin.s3.amazonaws.com/mat/userdata1.parquet,s3://coglogin.s3.amazonaws.com/mat/userdata1.parquet
+s3://coglogin.s3.amazonaws.com/mat/userdata2.parquet,s3://coglogin.s3.amazonaws.com/mat/userdata1.parquet
+s3://coglogin.s3.amazonaws.com/mat/userdata3.parquet,s3://coglogin.s3.amazonaws.com/mat/userdata1.parquet

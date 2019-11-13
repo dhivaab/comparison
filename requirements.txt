@@ -1,0 +1,8 @@
+boto3
+json
+csv
+os
+pandas
+re 
+openpyxl
+logging
